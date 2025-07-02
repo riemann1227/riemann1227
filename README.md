@@ -1,2 +1,2 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jun1227)](https://solved.ac/jun1227)
-KAIST Semiconductor System Engineering 25
+<br /> KAIST Semiconductor System Engineering 25
